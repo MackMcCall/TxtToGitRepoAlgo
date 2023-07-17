@@ -5,7 +5,7 @@
 5. Create new file and title it with ".txt" at the end: nameofyourfile.txt
 6. In VSCode type out the instructions for the excersise
 7. Once done use ctrl+s to save in VSCode
-8. Go back to command line and use "git add ." and "git commit -m "description-of-what-you-did""
+8. Go back to command line and use "git init", "git add ." and "git commit -m "description-of-what-you-did""
 9. Open github and create a new repository with the same title as the folder 
     (do not check any of the optional boxes)
 10. Ensure the SSH option is selcted near the top
